@@ -1,0 +1,9 @@
+C:\Users\Gebruiker\source\repos\No.Added.Parser\No.Added.Parser\bin\Debug\netstandard1.1\No.Added.Parser.deps.json
+C:\Users\Gebruiker\source\repos\No.Added.Parser\No.Added.Parser\bin\Debug\netstandard1.1\No.Added.Parser.dll
+C:\Users\Gebruiker\source\repos\No.Added.Parser\No.Added.Parser\bin\Debug\netstandard1.1\No.Added.Parser.pdb
+C:\Users\Gebruiker\source\repos\No.Added.Parser\No.Added.Parser\obj\Debug\netstandard1.1\No.Added.Parser.csprojAssemblyReference.cache
+C:\Users\Gebruiker\source\repos\No.Added.Parser\No.Added.Parser\obj\Debug\netstandard1.1\No.Added.Parser.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\No.Added.Parser\No.Added.Parser\obj\Debug\netstandard1.1\No.Added.Parser.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\No.Added.Parser\No.Added.Parser\obj\Debug\netstandard1.1\No.Added.Parser.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\No.Added.Parser\No.Added.Parser\obj\Debug\netstandard1.1\No.Added.Parser.dll
+C:\Users\Gebruiker\source\repos\No.Added.Parser\No.Added.Parser\obj\Debug\netstandard1.1\No.Added.Parser.pdb

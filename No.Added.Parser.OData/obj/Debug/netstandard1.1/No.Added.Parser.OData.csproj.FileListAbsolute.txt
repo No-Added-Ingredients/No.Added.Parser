@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\source\repos\No.Added.Parser\No.Added.Parser.OData\bin\Debug\netstandard1.1\No.Added.Parser.OData.deps.json
+C:\Users\Gebruiker\source\repos\No.Added.Parser\No.Added.Parser.OData\bin\Debug\netstandard1.1\No.Added.Parser.OData.dll
+C:\Users\Gebruiker\source\repos\No.Added.Parser\No.Added.Parser.OData\bin\Debug\netstandard1.1\No.Added.Parser.OData.pdb
+C:\Users\Gebruiker\source\repos\No.Added.Parser\No.Added.Parser.OData\bin\Debug\netstandard1.1\No.Added.Parser.dll
+C:\Users\Gebruiker\source\repos\No.Added.Parser\No.Added.Parser.OData\bin\Debug\netstandard1.1\No.Added.Parser.pdb
+C:\Users\Gebruiker\source\repos\No.Added.Parser\No.Added.Parser.OData\obj\Debug\netstandard1.1\No.Added.Parser.OData.csprojAssemblyReference.cache
+C:\Users\Gebruiker\source\repos\No.Added.Parser\No.Added.Parser.OData\obj\Debug\netstandard1.1\No.Added.Parser.OData.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\No.Added.Parser\No.Added.Parser.OData\obj\Debug\netstandard1.1\No.Added.Parser.OData.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\No.Added.Parser\No.Added.Parser.OData\obj\Debug\netstandard1.1\No.Added.Parser.OData.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\No.Added.Parser\No.Added.Parser.OData\obj\Debug\netstandard1.1\No.Added.Parser.OData.csproj.CopyComplete
+C:\Users\Gebruiker\source\repos\No.Added.Parser\No.Added.Parser.OData\obj\Debug\netstandard1.1\No.Added.Parser.OData.dll
+C:\Users\Gebruiker\source\repos\No.Added.Parser\No.Added.Parser.OData\obj\Debug\netstandard1.1\No.Added.Parser.OData.pdb
